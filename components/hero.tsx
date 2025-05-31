@@ -17,8 +17,8 @@ const Hero = () => {
         <div className=" flex items-start justify-center flex-col w-full h-full space-y-12">
           <div className="max-w-xl">
             <h2 className="text-white text-[35px] sm:text-[50px] leading-[1.4] font-bold">
-              Unleash SAP & Tech <br className="hidden sm:inline" /> Excellence with AI/ML{" "}
-              <br className="hidden sm:inline" /> Talent Cloud
+              Unleash SAP & Tech <br className="hidden sm:inline" /> Excellence
+              with AI/ML <br className="hidden sm:inline" /> Talent Cloud
             </h2>
             <p className="text-white">
               Find and deploy elite SAP consultants, managed teams, and
